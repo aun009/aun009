@@ -1,6 +1,6 @@
 # Hi Developers 👋
 
-I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I actively participate in competitive programming, securing impressive positions in various competitions.
+I’m a passionate **Java Backend Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I actively participate in competitive programming, securing impressive positions in various competitions.
 
 ---
 
@@ -13,7 +13,7 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 - **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
 - **Notable Projects**:
   - **Job Portal Application**: A microservices-based application for managing job postings and applications.
-  - **Bank of Bharat**: Comprehensive banking application showcasing advanced backend development skills.
+
 
 ### 🎨 **Frontend Skills**
 - **Frameworks/Libraries**: React
@@ -23,10 +23,6 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 - Actively learning containerization, CI/CD pipelines, and cloud-native tools.
 - Familiar with tools like Docker and Kubernetes.
 
-### ⚡ **Apache Tools**
-- **Apache Kafka**: Distributed streaming platform for real-time data pipelines and streaming applications.
-- **Apache Camel**: Integration framework for routing and mediation rules.
-- **Apache JMeter**: Performance testing tool for web applications and APIs.
 
 ---
 
